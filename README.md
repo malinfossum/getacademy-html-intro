@@ -1,2 +1,15 @@
-# getacademy-html-intro
-Emne 1: Intro til HTML
+# Emne 1 – Intro til HTML
+
+Dette er min første HTML-oppgave i **GET Academy (Start IT)**.
+
+## 🎯 Oppgave
+Lage en enkel nettside som viser:
+- grunnleggende HTML-struktur
+- bruk av vanlige HTML-elementer
+- enkel styling med CSS
+
+## 🚀 Hvordan kjøre prosjektet
+Åpne `index.html` i nettleser.
+
+## ✅ Status
+Oppgaven er ferdigstilt.
