@@ -1,18 +1,33 @@
-# Emne 1 – Intro til HTML
+# HTML Introduction
 
-🌐 **Live demo (GitHub Pages):**
+A simple HTML project created as part of my studies at **Get Academy (Start IT)**.  
+The purpose of this assignment was to practice basic HTML structure and core web concepts.
+
+---
+
+## Live Demo
+
 https://malinfossum.github.io/getacademy-html-intro/
 
-Dette er min første HTML-oppgave i **GET Academy (Start IT)**.
+---
 
-## 🎯 Oppgave
-Lage en enkel nettside som viser:
-- grunnleggende HTML-struktur
-- bruk av vanlige HTML-elementer
-- enkel styling med CSS
+## Assignment Focus
 
-## 🚀 Hvordan kjøre prosjektet
-Åpne `index.html` i nettleser.
+- Basic HTML document structure
+- Common HTML elements
+- Simple styling with CSS
+- Understanding how a webpage is built from scratch
 
-## ✅ Status
-Oppgaven er ferdigstilt.
+---
+
+## Technologies
+
+- HTML
+- CSS
+
+---
+
+## How to Run
+
+Open `index.html` directly in your browser  
+or use **Live Server** in VS Code.
