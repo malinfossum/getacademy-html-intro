@@ -1,33 +1,32 @@
 # HTML Introduction
 
-A simple HTML project created as part of my studies at **Get Academy (Start IT)**.  
-The purpose of this assignment was to practice basic HTML structure and core web concepts.
+A foundational HTML project created as part of my studies at Get Academy (Start IT), focused on understanding core web structure and basic styling.
 
 ---
 
-## Live Demo
+## Usage
 
+### Live Demo
 https://malinfossum.github.io/getacademy-html-intro/
 
+### Run Locally
+
+#### Option 1 – Static Project
+Open `index.html` directly in your browser  
+or use **Live Server** in VS Code.
+
 ---
 
-## Assignment Focus
+## Features
 
 - Basic HTML document structure
 - Common HTML elements
-- Simple styling with CSS
-- Understanding how a webpage is built from scratch
+- Simple styling using CSS
 
 ---
 
-## Technologies
+## Documentation
 
-- HTML
-- CSS
+This project explores how a webpage is structured from scratch using semantic HTML and basic CSS.
 
----
-
-## How to Run
-
-Open `index.html` directly in your browser  
-or use **Live Server** in VS Code.
+It was built to practice fundamental web concepts and understand how structure and styling work together in a simple static page.
